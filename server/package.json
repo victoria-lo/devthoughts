@@ -1,0 +1,15 @@
+{
+  "name": "devthoughts",
+  "version": "1.0.0",
+  "description": "Real-time chat app with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victoria Lo",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
