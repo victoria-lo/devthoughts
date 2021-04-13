@@ -5,10 +5,14 @@ This is a real-time chat app created for the [GraphQL for Beginners](https://lo-
 
 
 ### Technologies Used
-- GraphQL
-- React
-- Node.js, Express
-- ApolloClient
+<p>
+<img src="https://img.shields.io/badge/-GraphQL%20-black?style=for-the-badge&logo=graphql&logoColor=blueviolet">
+<img src="https://img.shields.io/badge/-Expressjs%20-%23323330?style=for-the-badge&logo=express">
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react" >   
+<img src="https://img.shields.io/badge/-Nodejs%20-%23323330?style=for-the-badge&logo=Node.js&logoColor=green">
+  <img src="https://img.shields.io/badge/-Apollo%20Client-grey?style=for-the-badge">
+</p>
+
 
 ### Demo
 ![demo](https://cdn.hashnode.com/res/hashnode/image/upload/v1617185843961/_c4WXjooW.gif)
